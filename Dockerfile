@@ -12,4 +12,4 @@ RUN touch /root/files/a.txt
 RUN touch /root/files/b.txt
 RUN touch /root/files/c.txt
 
-RUN git clone https://github.com/Gloriel621/assignment_week8 /root/assignment_week8
+RUN git clone https://github.com/Gloriel621/OSSP_week4 /root/OSSP_week4
